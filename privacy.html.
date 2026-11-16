@@ -1,0 +1,40 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Privacy Policy - Daily Pin Scheduler</title>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p>Last updated: November 16, 2026</p>
+
+  <h2>About this application</h2>
+  <p>Daily Pin Scheduler is a personal automation tool
+  used to create and publish original hairstyle and
+  men's fashion content to the account owner's boards.</p>
+
+  <h2>Information accessed</h2>
+  <p>The application may access Pinterest account
+  information, boards and content necessary to create
+  and publish Pins.</p>
+
+  <h2>Use of information</h2>
+  <p>Information is used only to generate, manage and
+  publish Pins and maintain automation history.</p>
+
+  <h2>Third-party services</h2>
+  <p>The application may use Pinterest, n8n and OpenAI
+  services to provide its functionality. Their respective
+  privacy policies apply to information processed by them.</p>
+
+  <h2>Data sharing</h2>
+  <p>The application is intended for personal use and
+  does not sell personal information.</p>
+
+  <h2>Contact</h2>
+  <p>For privacy questions, contact the application owner
+  through the GitHub repository.</p>
+</body>
+</html>
